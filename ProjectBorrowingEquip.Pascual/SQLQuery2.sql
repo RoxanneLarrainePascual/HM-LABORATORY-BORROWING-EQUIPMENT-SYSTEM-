@@ -1,0 +1,1 @@
+﻿INSERT INTO dbo.Users (FullName, Username, UserPassword) VALUES ('Test User', 'test', '1234');

@@ -1,0 +1,16 @@
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\bin\Debug\ProjectBorrowingEquip.Pascual.exe.config
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\bin\Debug\ProjectBorrowingEquip.Pascual.exe
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\bin\Debug\ProjectBorrowingEquip.Pascual.pdb
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.csproj.AssemblyReference.cache
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.Form1.resources
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.Properties.Resources.resources
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.csproj.GenerateResource.cache
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.csproj.CoreCompileInputs.cache
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.exe
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.pdb
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.Dashboard.resources
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.BorrowingEquipmentForm.resources
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.exe.config
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.Return.resources
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.EquipmentList.resources
+C:\Users\personal\source\repos\ProjectBorrowingEquip.Pascual\obj\Debug\ProjectBorrowingEquip.Pascual.StudentList.resources
